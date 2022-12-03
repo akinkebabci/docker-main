@@ -1,5 +1,3 @@
-Bu doküman [kablosuzkedi Youtube Kanalı](https://youtube.com/kablosuzkedii) için hazırlanmıştır. Bu içerikte bulunan konular ve daha fazlası için video serisine de göz atabilirsiniz.
-
 [Docker Nedir Nasıl Kullanılır? | Part #1 | Image Nedir? Container Nedir? Docker Komutları
 ](https://www.youtube.com/watch?v=4XVfmGE1F_w)
 
